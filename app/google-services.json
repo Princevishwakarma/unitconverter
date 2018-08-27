@@ -1,0 +1,371 @@
+{
+  "project_info": {
+    "project_number": "609596001782",
+    "firebase_url": "https://bit-class-4d151.firebaseio.com",
+    "project_id": "bit-class-4d151",
+    "storage_bucket": "bit-class-4d151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:eeaec9205d21cb1d",
+        "android_client_info": {
+          "package_name": "com.example.android.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-kg3d4hb4c6fqlvmuku05f0po35lbfucj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.logindemo",
+            "certificate_hash": "a13716f80b599d23b6ed591ddfb5e37d1e8ae525"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:0ce8ffe69c25b42a",
+        "android_client_info": {
+          "package_name": "com.example.chintugandhwani.firebasephoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-lmse1o08bqa60ak8aljo9gba9p5m5nrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chintugandhwani.firebasephoneauth",
+            "certificate_hash": "ea562e83449c6d6dc88e42ceb647108933c6fd2f"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:db9ae12e4df245ea",
+        "android_client_info": {
+          "package_name": "com.example.princevishwakarma.bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-4tbamu978kocinabts20fco63s38m0jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.princevishwakarma.bit",
+            "certificate_hash": "a13716f80b599d23b6ed591ddfb5e37d1e8ae525"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:c7aad8aebcc42b70",
+        "android_client_info": {
+          "package_name": "com.example.princevishwakarma.bitclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-5oi9daruf33sjitf14hepcrutbn4prfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.princevishwakarma.bitclass",
+            "certificate_hash": "a13716f80b599d23b6ed591ddfb5e37d1e8ae525"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:ab5ed08d42f57c13",
+        "android_client_info": {
+          "package_name": "com.example.princevishwakarma.unitconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-bd4kirdb5hte75um0es3u8qgg4gbegk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.princevishwakarma.unitconverter",
+            "certificate_hash": "a13716f80b599d23b6ed591ddfb5e37d1e8ae525"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:1f977304bd35b299",
+        "android_client_info": {
+          "package_name": "com.newsmarttrick.bitclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-cpi058ukvoh3ius3jukf9eqe0lpsp7b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsmarttrick.bitclass",
+            "certificate_hash": "ea562e83449c6d6dc88e42ceb647108933c6fd2f"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:ffa9cdec9aab5e75",
+        "android_client_info": {
+          "package_name": "com.newsmarttrick.www.bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-01qk9mb1evuqh5940j5v7rcutcd0o5o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsmarttrick.www.bit",
+            "certificate_hash": "ea562e83449c6d6dc88e42ceb647108933c6fd2f"
+          }
+        },
+        {
+          "client_id": "609596001782-gnvj1nlg2opa0u3t85lru1al8tig37n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsmarttrick.www.bit",
+            "certificate_hash": "49ce8cd4cf2d526d41449274f25bb6636d0799f1"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609596001782:android:a921e4af2a17919b",
+        "android_client_info": {
+          "package_name": "com.newsmarttrick.www.bitclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609596001782-qs3a8f1190eprld0r5vp7vjqncggo88c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsmarttrick.www.bitclass",
+            "certificate_hash": "ea562e83449c6d6dc88e42ceb647108933c6fd2f"
+          }
+        },
+        {
+          "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcysE9uLgLwVB3hEMLMSKVjGXDE0kBJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609596001782-n1e31ql8apd77d9ufnvm8e7lfcc813q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

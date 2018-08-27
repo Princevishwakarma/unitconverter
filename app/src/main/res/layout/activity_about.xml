@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".aboutActivity">
+
+    <include
+        layout="@layout/app_bar_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_marginTop="55dp"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="128dp"
+        android:layout_height="127dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        app:srcCompat="@drawable/icon"
+        android:contentDescription="TODO" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="164dp"
+        app:srcCompat="@drawable/uc"
+        android:contentDescription="TODO" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView4"
+        android:text="@string/firstly_we_tells_about_the_our_team_our_team_contain_five_members_namely_prince_vishwakarma_vivek_sahani_rahul_singh_yash_kumar_singh_vimlesh_sahani_we_are_college_friends_of_buddha_institute_of_technology_gida_gorakhpur_we_are_pursing_b_tech_in_computer_science_enggineering_and_also_part_of_the_new_startup_and_you_will_get_about_soon_our_team_are_very_social_friendly_and_you_can_get_in_touch_with_team_just_follow_nst_team_on_www_newsmarttrick_com_sites"
+       android:padding="10dp"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView12"
+        android:text="@string/thanks_you_from_all_member_of_nst_group"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true" />
+</RelativeLayout>
+
+
+
+
+
+
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/nav_header_main"
+        app:menu="@menu/activity_main_drawer" />
+
+
+
+</android.support.v4.widget.DrawerLayout>

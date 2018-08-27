@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/lg_nav"
+            android:icon="@drawable/ic_straighten_black_24dp"
+            android:title="@string/length" />
+        <item
+            android:id="@+id/mass_nav"
+            android:icon="@drawable/ic_dns_black_24dp"
+            android:title="@string/mass" />
+        <item
+            android:id="@+id/time_nav"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="@string/time" />
+        <item
+            android:id="@+id/temp_nav"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="@string/temp" />
+        <item
+            android:id="@+id/ds_nav"
+            android:icon="@drawable/ic_storage_black_24dp"
+            android:title="@string/ds" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/ic_mail_black_24dp"
+                android:title="@string/contact" />
+        </menu>
+    </item>
+
+</menu>
